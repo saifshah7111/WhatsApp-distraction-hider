@@ -7,6 +7,9 @@ There can be errors because I don't know anything about Kotlin.
 # Inspired by Digital Habits: Focus
 Repo link - https://github.com/digitalhabits/dh-focus-android
 
+# Disclaimer
+This project is not affiliated with or endorsed by WhatsApp or Meta
+
 # My Focus (starter)
 
 Open this folder in Android Studio, let it sync, then Run on a phone (Android 8.0+).
