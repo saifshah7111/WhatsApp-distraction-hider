@@ -45,4 +45,3 @@ If nothing avatar-like shows up, the app hides its avatars from accessibility; t
 # Motive 
 The project is for developers who are interested in anything related to WhatsApp.
 This is an Idea for them.
-on't
