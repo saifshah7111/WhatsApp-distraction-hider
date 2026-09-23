@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Focus</string>
+    <string name="service_description">Hides the interface elements you choose in other apps. Works only on this device.</string>
+</resources>
