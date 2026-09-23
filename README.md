@@ -1,7 +1,7 @@
-# Distraction hider for Whatsapp
-It is totally made by Claude
+# Distraction hider for WhatsApp
+It was made entirely by Claude
 
-There can be errors because i don't know anything about kotlin.
+There can be errors because I don't know anything about Kotlin.
 
 
 # Inspired by Digital Habits: Focus
