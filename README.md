@@ -3,6 +3,7 @@ It was made entirely by Claude
 
 There can be errors because I don't know anything about Kotlin.
 
+This project has not been tested yet on any device
 
 # Inspired by Digital Habits: Focus
 Repo link - https://github.com/digitalhabits/dh-focus-android
