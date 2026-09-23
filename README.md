@@ -41,3 +41,8 @@ IDs change between app versions, so find them on your own phone:
 3. Come back, tap "Stop and show IDs". IDs seen many times at once (like 8x) are usually avatars in a list.
 4. Copy an ID into the rules: `com.whatsapp | id | com.whatsapp:id/<name>`
 If nothing avatar-like shows up, the app hides its avatars from accessibility; then a position-based rule is needed.
+
+# Motive 
+The project is for developers who are interested in anything related to WhatsApp.
+This is an Idea for them.
+on't
